@@ -22,7 +22,7 @@ div {
 	width: 30%;
 	height: 25vh;
 	margin: 3vh 1.5vw;
-	padding: 1vh 1vw;
+	padding: 2vh 1vw;
 	overflow: hidden;
 	background-color: turquoise;
 	position: relative;
@@ -133,7 +133,7 @@ p {
 		width: 30%;
 		height: 30vh;
 		margin: 1vh 1.5vw;
-		padding: 1vh 1vw;
+		padding: 2vh 1vw;
 		overflow: hidden;
 		background-color: turquoise;
 		position: relative;
