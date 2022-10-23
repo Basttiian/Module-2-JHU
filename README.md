@@ -1,3 +1,8 @@
+[Course certificate of: HTML, CSS, and Javascript for Web Developers](https://coursera.org/share/f0b9d619c0ef3695fa99c28db344c474)
+
+
+
+
 # Module 2 Coding Assignment
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
