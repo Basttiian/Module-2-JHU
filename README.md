@@ -1,7 +1,7 @@
 # [Course certificate of: HTML, CSS, and Javascript for Web Developers](https://coursera.org/share/f0b9d619c0ef3695fa99c28db344c474)
 
 <img
-  src="/home/bastiian/Downloads/CCSeb"
+  src="/home/bastiian/Downloads/CCSeb.png"
   alt="Course certificate"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
