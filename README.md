@@ -2,6 +2,8 @@
 
 ![CourseraCertificate](https://user-images.githubusercontent.com/110682775/197410874-b4541b77-4c9e-4e89-86aa-ee992c4832ef.png)
 
+<hr>
+
 # Module 2 Coding Assignment
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
