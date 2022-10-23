@@ -1,10 +1,6 @@
 # [Course certificate of: HTML, CSS, and Javascript for Web Developers](https://coursera.org/share/f0b9d619c0ef3695fa99c28db344c474)
 
-<img
-  src="/home/bastiian/Downloads/CCSeb.png"
-  alt="Course certificate"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-
+![CourseraCertificate](https://user-images.githubusercontent.com/110682775/197410874-b4541b77-4c9e-4e89-86aa-ee992c4832ef.png)
 
 # Module 2 Coding Assignment
 
